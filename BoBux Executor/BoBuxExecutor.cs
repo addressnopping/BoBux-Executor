@@ -97,5 +97,16 @@ namespace BoBux_Executor
         {
             Application.Exit();
         }
+
+        private void label2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button9_Click(object sender, EventArgs e)
+        {
+            ScriptHub openform = new ScriptHub();
+            openform.Show();
+        }
     }
 }
