@@ -71,5 +71,19 @@ namespace BoBux_Executor
                 this.Top += e.Y - lastPoint.Y;
             }
         }
+
+        private void button6_Click(object sender, EventArgs e)
+        {
+            WebClient wb = new WebClient();
+            string Script = wb.DownloadString("https://pastebin.com/raw/dXUf0ku1");
+            module.ExecuteScript(Script);
+        }
+
+        private void button7_Click(object sender, EventArgs e)
+        {
+            WebClient wb = new WebClient();
+            string Script = wb.DownloadString("https://pastebin.com/raw/ySQhutw7");
+            module.ExecuteScript(Script);
+        }
     }
 }
