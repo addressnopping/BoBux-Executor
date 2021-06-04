@@ -1,0 +1,12 @@
+C:\Users\pedro\Desktop\BoBux Executor\BoBux Executor\bin\Debug\BoBux Executor.exe.config
+C:\Users\pedro\Desktop\BoBux Executor\BoBux Executor\bin\Debug\BoBux Executor.exe
+C:\Users\pedro\Desktop\BoBux Executor\BoBux Executor\bin\Debug\BoBux Executor.pdb
+C:\Users\pedro\Desktop\BoBux Executor\BoBux Executor\bin\Debug\EasyExploits.dll
+C:\Users\pedro\Desktop\BoBux Executor\BoBux Executor\bin\Debug\FastColoredTextBox.dll
+C:\Users\pedro\Desktop\BoBux Executor\BoBux Executor\obj\Debug\BoBux_Executor.BoBuxExecutor.resources
+C:\Users\pedro\Desktop\BoBux Executor\BoBux Executor\obj\Debug\BoBux_Executor.Properties.Resources.resources
+C:\Users\pedro\Desktop\BoBux Executor\BoBux Executor\obj\Debug\BoBux Executor.csproj.GenerateResource.cache
+C:\Users\pedro\Desktop\BoBux Executor\BoBux Executor\obj\Debug\BoBux Executor.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Desktop\BoBux Executor\BoBux Executor\obj\Debug\BoBux Executor.csproj.CopyComplete
+C:\Users\pedro\Desktop\BoBux Executor\BoBux Executor\obj\Debug\BoBux Executor.exe
+C:\Users\pedro\Desktop\BoBux Executor\BoBux Executor\obj\Debug\BoBux Executor.pdb
