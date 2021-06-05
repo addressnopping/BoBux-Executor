@@ -34,7 +34,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="EasyExploits">
-      <HintPath>..\..\Tutorial Video\dlls\EasyExploits.dll</HintPath>
+      <HintPath>..\..\EasyExploits.dll</HintPath>
     </Reference>
     <Reference Include="FastColoredTextBox">
       <HintPath>..\..\Tutorial Video\dlls\FastColoredTextBox.dll</HintPath>

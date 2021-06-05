@@ -85,5 +85,131 @@ namespace BoBux_Executor
             string Script = wb.DownloadString("https://pastebin.com/raw/ySQhutw7");
             module.ExecuteScript(Script);
         }
+
+        private void button13_Click(object sender, EventArgs e)
+        {
+            WebClient wb = new WebClient();
+            string Script = wb.DownloadString("https://pastebin.com/raw/PuPgZN70");
+            module.ExecuteScript(Script);
+        }
+
+        private void button14_Click(object sender, EventArgs e)
+        {
+            WebClient wb = new WebClient();
+            string Script = wb.DownloadString("https://pastebin.com/raw/FU02DCMf");
+            module.ExecuteScript(Script);
+        }
+
+        private void button15_Click(object sender, EventArgs e)
+        {
+            WebClient wb = new WebClient();
+            string Script = wb.DownloadString("https://pastebin.com/raw/ZJmARj6E");
+            module.ExecuteScript(Script);
+        }
+
+        private void button11_Click(object sender, EventArgs e)
+        {
+            WebClient wb = new WebClient();
+            string Script = wb.DownloadString("https://pastebin.com/raw/h0516bLT");
+            module.ExecuteScript(Script);
+        }
+
+        private void button12_Click(object sender, EventArgs e)
+        {
+            WebClient wb = new WebClient();
+            string Script = wb.DownloadString("https://pastebin.com/raw/3C3sx2mT");
+            module.ExecuteScript(Script);
+        }
+
+        private void button16_Click(object sender, EventArgs e)
+        {
+            WebClient wb = new WebClient();
+            string Script = wb.DownloadString("https://pastebin.com/raw/7DPzKTRL");
+            module.ExecuteScript(Script);
+        }
+
+        private void button10_Click(object sender, EventArgs e)
+        {
+            WebClient wb = new WebClient();
+            string Script = wb.DownloadString("https://pastebin.com/raw/WDDRAFEu");
+            module.ExecuteScript(Script);
+        }
+
+        private void button9_Click(object sender, EventArgs e)
+        {
+            WebClient wb = new WebClient();
+            string Script = wb.DownloadString("https://pastebin.com/raw/AYmZ2DXz");
+            module.ExecuteScript(Script);
+        }
+
+        private void button8_Click(object sender, EventArgs e)
+        {
+            WebClient wb = new WebClient();
+            string Script = wb.DownloadString("https://pastebin.com/raw/PkCDJuFz");
+            module.ExecuteScript(Script);
+        }
+
+        private void button19_Click(object sender, EventArgs e)
+        {
+            WebClient wb = new WebClient();
+            string Script = wb.DownloadString("https://pastebin.com/raw/sJALMsH5");
+            module.ExecuteScript(Script);
+        }
+
+        private void button20_Click(object sender, EventArgs e)
+        {
+            WebClient wb = new WebClient();
+            string Script = wb.DownloadString("https://pastebin.com/raw/b1z4Znkh");
+            module.ExecuteScript(Script);
+        }
+
+        private void button21_Click(object sender, EventArgs e)
+        {
+            WebClient wb = new WebClient();
+            string Script = wb.DownloadString("https://pastebin.com/raw/X0BL7NXv");
+            module.ExecuteScript(Script);
+        }
+
+        private void button23_Click(object sender, EventArgs e)
+        {
+            WebClient wb = new WebClient();
+            string Script = wb.DownloadString("");
+            module.ExecuteScript(Script);
+        }
+
+        private void button22_Click(object sender, EventArgs e)
+        {
+            WebClient wb = new WebClient();
+            string Script = wb.DownloadString("");
+            module.ExecuteScript(Script);
+        }
+
+        private void button18_Click(object sender, EventArgs e)
+        {
+            WebClient wb = new WebClient();
+            string Script = wb.DownloadString("");
+            module.ExecuteScript(Script);
+        }
+
+        private void button17_Click(object sender, EventArgs e)
+        {
+            WebClient wb = new WebClient();
+            string Script = wb.DownloadString("");
+            module.ExecuteScript(Script);
+        }
+
+        private void button25_Click(object sender, EventArgs e)
+        {
+            WebClient wb = new WebClient();
+            string Script = wb.DownloadString("");
+            module.ExecuteScript(Script);
+        }
+
+        private void button24_Click(object sender, EventArgs e)
+        {
+            WebClient wb = new WebClient();
+            string Script = wb.DownloadString("");
+            module.ExecuteScript(Script);
+        }
     }
 }

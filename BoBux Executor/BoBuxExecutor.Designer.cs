@@ -88,7 +88,7 @@ namespace BoBux_Executor
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(31, 15);
             this.label2.TabIndex = 1;
-            this.label2.Text = "V1.2";
+            this.label2.Text = "V1.3";
             this.label2.Click += new System.EventHandler(this.label2_Click);
             // 
             // label1
