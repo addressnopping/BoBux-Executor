@@ -34,10 +34,10 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="EasyExploits">
-      <HintPath>..\..\Tutorial Video\EasyExploits.dll</HintPath>
+      <HintPath>..\..\bobux utils\EasyExploits.dll</HintPath>
     </Reference>
     <Reference Include="FastColoredTextBox">
-      <HintPath>..\..\Tutorial Video\FastColoredTextBox.dll</HintPath>
+      <HintPath>..\..\bobux utils\FastColoredTextBox.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
