@@ -26,7 +26,7 @@ namespace BoBux_Executor
 
         private void listBox1_SelectedIndexChanged(object sender, EventArgs e)
         {
-            richTextBox1.Text = File.ReadAllText($"./Scripts/{listBox1.SelectedItem}");
+            fastColoredTextBox1.Text = File.ReadAllText($"./Scripts/{listBox1.SelectedItem}");
         }
 
         private void panel1_MouseDown(object sender, MouseEventArgs e)
@@ -45,12 +45,12 @@ namespace BoBux_Executor
 
         private void button1_Click(object sender, EventArgs e)
         {
-            module.ExecuteScript(richTextBox1.Text);
+            module.ExecuteScript(fastColoredTextBox1.Text);
         }
 
         private void button7_Click(object sender, EventArgs e)
         {
-            richTextBox1.Clear();
+            fastColoredTextBox1.Clear();
         }
 
         private void button6_Click(object sender, EventArgs e)
@@ -59,7 +59,7 @@ namespace BoBux_Executor
             if (openFileDialog1.ShowDialog() == DialogResult.OK)
             {
                 openFileDialog1.Title = "Open";
-                richTextBox1.Text = File.ReadAllText(openFileDialog1.FileName);
+                fastColoredTextBox1.Text = File.ReadAllText(openFileDialog1.FileName);
             }
         }
 
@@ -71,7 +71,7 @@ namespace BoBux_Executor
                 using (Stream s = File.Open(saveFileDialog1.FileName, FileMode.CreateNew))
                 using (StreamWriter sw = new StreamWriter(s))
                 {
-                    sw.Write(richTextBox1.Text);
+                    sw.Write(fastColoredTextBox1.Text);
                 }
             }
         }
@@ -107,6 +107,11 @@ namespace BoBux_Executor
         {
             ScriptHub openform = new ScriptHub();
             openform.Show();
+        }
+
+        private void fastColoredTextBox1_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }
